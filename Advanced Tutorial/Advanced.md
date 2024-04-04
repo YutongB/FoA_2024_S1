@@ -1,5 +1,0 @@
-[[Advanced Plan]]
-[[Week 2 Advanced]]
-[[Week 3 Advanced]]
-[[Week 4 Advanced]]
-[[Week 5 Advanced]]
