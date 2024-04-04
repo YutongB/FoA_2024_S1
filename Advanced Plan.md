@@ -1,0 +1,14 @@
+- Plan for Advanced tutorials 
+	- C speedrun (Week 2-4)
+		- Week 2 : hello world, input/output, format, bounds +
+					Memories,if statement, for/while loops, recurtion, functions
+		- Week 3 : Scope, Arrays, Strings, Pointers
+		- Week 4 : more strings + structures
+	- Week 5: Searching + Sorting algorithm (Insertion, selection, merge, quick, heap, )
+	- Week 6 : Dynamic Memory Allocation, Ass1, MST
+	- Week 7: BST + files. + Data structures(Linked Lists,  queue, stack, heap, hash)
+	- Week 8: Problem Solving Strategies + DP + Greedy
+	- Week 9: HPC
+	- Week 10: QC
+	- Week 11: 
+	- Week 12: Exams

@@ -1,0 +1,17 @@
+- Ice breaker 
+
+- Hello world! 
+	- Ex1.02
+- Input/output
+	- Ex2.08
+- Format specifiers
+	- Ex3.07 and Ex3.07b 
+- Bounds on numbers
+	- Ex2.04
+- If statements
+- for/while loops, recursions
+- functions 
+	- Let's write the function bool is_prime(int n)
+		- can we make it fast? 
+		- what is the complexity? 
+	- now let's do int Fibonacci number(int n)
